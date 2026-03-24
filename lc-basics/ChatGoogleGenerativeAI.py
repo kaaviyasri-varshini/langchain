@@ -49,4 +49,4 @@ response = chain.invoke(
     }
 )
 
-print(response)
+print(response.content)
